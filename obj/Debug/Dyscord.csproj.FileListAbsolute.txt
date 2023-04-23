@@ -1,0 +1,12 @@
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.SettingsForm.resources
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.DyscordForm.resources
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\bin\Debug\Dyscord.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\bin\Debug\Dyscord.exe
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\bin\Debug\Dyscord.pdb
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.exe
+C:\Users\Wiz\Desktop\IGME 201\Dyscord\obj\Debug\Dyscord.pdb
